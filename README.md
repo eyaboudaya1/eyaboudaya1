@@ -6,7 +6,7 @@ Software Engineer - Full Stack Web Developer
 
 I love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years , I have started to become very versed in things like architecture designs and communication. I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier. 🌍 I'm based in India
 
-* 🌍  I'm based in Tunisie
+* 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [eyaboudaya1@gmail.com](mailto:eyaboudaya1@gmail.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Full Stack Web Developement
