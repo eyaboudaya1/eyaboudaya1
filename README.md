@@ -8,7 +8,7 @@ I love the process of software development, whereby you can take something from 
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [eyaboudaya1@gmail.com](mailto:eyaboudaya1@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Smart Contract (Dapps)
 * 🤝  I'm open to collaborating on Full Stack Web Developement
 
 ### Skills
